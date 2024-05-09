@@ -1,0 +1,38 @@
+{
+    "Münster": {
+        "coordinates": [7.138292960131729, 48.043226471616926],
+        "notes": "Son goût est meilleur que son odeur, très bon avec des pomme de terres"
+    },
+    "Comté": {
+        "coordinates": [6.024030189354915, 47.1354353499868],
+        "notes": "La référence absolue, le plus vendu pour une raison"
+    },
+    "Morbier": {
+        "coordinates": [6.020766164143035, 46.55738604555903],
+        "notes": "La ligne bleue au milieu contient de la cendre !"
+    },
+    "Mimolette": {
+        "coordinates": [2.7767843933524348, 50.47846283051747],
+        "notes": "un fromage au lait cru de vache"
+    },
+    "Tomme de Savoie": {
+        "coordinates": [6.486032090713599, 45.46741200452152],
+        "notes": "Elle a sans conteste un goût de revenez-y"
+    },
+    "Saint Marcellin": {
+        "coordinates": [5.35060761105103, 45.11488969925696],
+        "notes": "Le petit frère du Saint-Félicien, encore plus crémeux"
+    },
+    "Roquefort": {
+        "coordinates": [-0.3237426836708791, 44.03422193500354],
+        "notes": "Ce fromage bleu a un sacré punch, âmes sensibles s'abstenir !"
+    },
+    "Camembert": {
+        "coordinates": [0.1760224549248147, 48.89388894536997],
+        "notes": "Ce fromage de Normandie bien particulier est une des symboles français les plus fameux"
+    },
+    "Saint-Nectaire": {
+        "coordinates": [3.0025430791308287, 45.57673891027],
+        "notes": "Un bon saint-nectaire est sans égal, à la fois subtil et puissant"
+    }
+}
